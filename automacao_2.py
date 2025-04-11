@@ -32,7 +32,6 @@ def run(playwright: Playwright) -> None:
 
     page.pause()
     input('Teste Finalizado!')
-    # ---------------------
 
 
 
